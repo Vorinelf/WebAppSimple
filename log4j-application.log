@@ -1,0 +1,1176 @@
+2019-01-23 18:46:47 INFO  Room:61 - ROOM: I count my devices now
+2019-01-23 18:46:47 INFO  Room:63 - ROOM: Count devices completed
+2019-01-23 18:46:47 INFO  Room:19 - ROOM: I am buying electrical devices
+2019-01-23 18:46:47 INFO  Room:28 - ROOM: Buy devices completed
+2019-01-23 18:46:47 INFO  Room:61 - ROOM: I count my devices now
+2019-01-23 18:46:47 INFO  Room:63 - ROOM: Count devices completed
+2019-01-23 18:46:47 INFO  Room:68 - ROOM: All my devices were printed in console
+2019-01-23 18:46:47 INFO  Room:32 - ROOM: I sort devices
+2019-01-23 18:46:47 INFO  Room:35 - ROOM: Sort devices completed
+2019-01-23 18:46:47 INFO  Room:41 - ROOM: I choose my devices by some value of power
+2019-01-23 18:46:47 INFO  Room:47 - ROOM: Choice by power completed
+2019-01-23 18:46:47 INFO  Room:51 - ROOM: I sum all power of devices 
+2019-01-23 18:46:47 INFO  Room:56 - ROOM: Sum devices by power completed
+2019-01-23 18:46:47 INFO  Parser:28 - PARSER: Create new arraylist
+2019-01-23 18:46:47 INFO  Parser:30 - PARSER: Create new arraylist completed successfully
+2019-01-23 18:46:47 INFO  Parser:49 - PARSER: Start the parser all devices of document <deviceHands.xml>!
+2019-01-23 18:46:47 INFO  Parser:53 - PARSER: Start the parser of KitchenDevice
+2019-01-23 18:46:47 INFO  Parser:85 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 18:46:47 INFO  Parser:130 - PARSER: Start method <getDeviceField>
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:138 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:92 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 18:46:47 INFO  Parser:59 - PARSER: Parser of KitchenDevice and add to arraylist completed successfully
+2019-01-23 18:46:47 INFO  Parser:85 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 18:46:47 INFO  Parser:130 - PARSER: Start method <getDeviceField>
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:138 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:92 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 18:46:47 INFO  Parser:59 - PARSER: Parser of KitchenDevice and add to arraylist completed successfully
+2019-01-23 18:46:47 INFO  Parser:85 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 18:46:47 INFO  Parser:130 - PARSER: Start method <getDeviceField>
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:138 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:92 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 18:46:47 INFO  Parser:59 - PARSER: Parser of KitchenDevice and add to arraylist completed successfully
+2019-01-23 18:46:47 INFO  Parser:61 - PARSER: Start the parser of BathroomDevice
+2019-01-23 18:46:47 INFO  Parser:97 - PARSER: Start method <buildDeviceBath>
+2019-01-23 18:46:47 INFO  Parser:130 - PARSER: Start method <getDeviceField>
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:138 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:102 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 18:46:47 INFO  Parser:67 - PARSER: Parser of BathroomDevice and add to arraylist completed successfully
+2019-01-23 18:46:47 INFO  Parser:97 - PARSER: Start method <buildDeviceBath>
+2019-01-23 18:46:47 INFO  Parser:130 - PARSER: Start method <getDeviceField>
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:138 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:102 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 18:46:47 INFO  Parser:67 - PARSER: Parser of BathroomDevice and add to arraylist completed successfully
+2019-01-23 18:46:47 INFO  Parser:97 - PARSER: Start method <buildDeviceBath>
+2019-01-23 18:46:47 INFO  Parser:130 - PARSER: Start method <getDeviceField>
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:138 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:102 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 18:46:47 INFO  Parser:67 - PARSER: Parser of BathroomDevice and add to arraylist completed successfully
+2019-01-23 18:46:47 INFO  Parser:69 - PARSER: Start the parser of LongueRoomDevice
+2019-01-23 18:46:47 INFO  Parser:107 - PARSER: Start method <buildDeviceLongue>
+2019-01-23 18:46:47 INFO  Parser:130 - PARSER: Start method <getDeviceField>
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:138 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:116 - PARSER: Method <buildDeviceLongue> completed successfully
+2019-01-23 18:46:47 INFO  Parser:75 - PARSER: Parser of  LongueRoomDevice and add to arraylist completed successfully
+2019-01-23 18:46:47 INFO  Parser:107 - PARSER: Start method <buildDeviceLongue>
+2019-01-23 18:46:47 INFO  Parser:130 - PARSER: Start method <getDeviceField>
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:138 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 18:46:47 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 18:46:47 INFO  Parser:116 - PARSER: Method <buildDeviceLongue> completed successfully
+2019-01-23 18:46:47 INFO  Parser:75 - PARSER: Parser of  LongueRoomDevice and add to arraylist completed successfully
+2019-01-23 18:46:47 INFO  Parser:41 - PARSER: Printing all devises after parser now: [
+CLASS: class flat.device.KitchenDevice Name: Multicooker PowerSize: 1 PowerON: true SerialNumber:  1 minTemperature: 20 maxTemperature: 200, 
+CLASS: class flat.device.KitchenDevice Name: Kittle PowerSize: 2 PowerON: true SerialNumber:  2 minTemperature: 30 maxTemperature: 250, 
+CLASS: class flat.device.KitchenDevice Name: Microwave PowerSize: 3 PowerON: true SerialNumber:  3 minTemperature: 15 maxTemperature: 180, 
+CLASS: class flat.device.BathroomDevice Name: hairdryer PowerSize: 3 PowerON: true SerialNumber:  4 waterproof: true, 
+CLASS: class flat.device.BathroomDevice Name: hairdryer PowerSize: 5 PowerON: true SerialNumber:  5 waterproof: true, 
+CLASS: class flat.device.BathroomDevice Name: washing_machine PowerSize: 7 PowerON: true SerialNumber:  6 waterproof: true, 
+CLASS: class flat.device.LongueRoomDevice Name: TV PowerSize: 2 PowerON: true SerialNumber:  7 lcdDisplay: true wiFi: true bluetooth: true, 
+CLASS: class flat.device.LongueRoomDevice Name: Computer PowerSize: 4 PowerON: true SerialNumber:  8 lcdDisplay: true wiFi: true bluetooth: false]
+2019-01-23 18:46:47 INFO  Parser:42 - PARSER: Size of list allDevices is 8
+2019-01-23 19:17:07 INFO  Room:61 - ROOM: I count my devices now
+2019-01-23 19:17:07 INFO  Room:63 - ROOM: Count devices completed
+2019-01-23 19:17:07 INFO  Room:19 - ROOM: I am buying electrical devices
+2019-01-23 19:17:07 INFO  Room:28 - ROOM: Buy devices completed
+2019-01-23 19:17:07 INFO  Room:61 - ROOM: I count my devices now
+2019-01-23 19:17:07 INFO  Room:63 - ROOM: Count devices completed
+2019-01-23 19:17:07 INFO  Room:68 - ROOM: All my devices were printed in console
+2019-01-23 19:17:07 INFO  Room:32 - ROOM: I sort devices
+2019-01-23 19:17:07 INFO  Room:35 - ROOM: Sort devices completed
+2019-01-23 19:17:07 INFO  Room:41 - ROOM: I choose my devices by some value of power
+2019-01-23 19:17:07 INFO  Room:47 - ROOM: Choice by power completed
+2019-01-23 19:17:07 INFO  Room:51 - ROOM: I sum all power of devices 
+2019-01-23 19:17:07 INFO  Room:56 - ROOM: Sum devices by power completed
+2019-01-23 19:17:07 INFO  Parser:28 - PARSER: Create new arraylist
+2019-01-23 19:17:07 INFO  Parser:30 - PARSER: Create new arraylist completed successfully
+2019-01-23 19:17:07 INFO  Parser:49 - PARSER: Start the parser all devices of document <deviceHands.xml>!
+2019-01-23 19:17:07 INFO  Parser:53 - PARSER: Start the parser of KitchenDevice
+2019-01-23 19:17:07 INFO  Parser:85 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 19:17:07 INFO  Parser:130 - PARSER: Start method <getDeviceField>
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:138 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:92 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 19:17:07 INFO  Parser:59 - PARSER: Parser of KitchenDevice and add to arraylist completed successfully
+2019-01-23 19:17:07 INFO  Parser:85 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 19:17:07 INFO  Parser:130 - PARSER: Start method <getDeviceField>
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:138 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:92 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 19:17:07 INFO  Parser:59 - PARSER: Parser of KitchenDevice and add to arraylist completed successfully
+2019-01-23 19:17:07 INFO  Parser:85 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 19:17:07 INFO  Parser:130 - PARSER: Start method <getDeviceField>
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:138 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:92 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 19:17:07 INFO  Parser:59 - PARSER: Parser of KitchenDevice and add to arraylist completed successfully
+2019-01-23 19:17:07 INFO  Parser:61 - PARSER: Start the parser of BathroomDevice
+2019-01-23 19:17:07 INFO  Parser:97 - PARSER: Start method <buildDeviceBath>
+2019-01-23 19:17:07 INFO  Parser:130 - PARSER: Start method <getDeviceField>
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:138 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:102 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 19:17:07 INFO  Parser:67 - PARSER: Parser of BathroomDevice and add to arraylist completed successfully
+2019-01-23 19:17:07 INFO  Parser:97 - PARSER: Start method <buildDeviceBath>
+2019-01-23 19:17:07 INFO  Parser:130 - PARSER: Start method <getDeviceField>
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:138 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:102 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 19:17:07 INFO  Parser:67 - PARSER: Parser of BathroomDevice and add to arraylist completed successfully
+2019-01-23 19:17:07 INFO  Parser:97 - PARSER: Start method <buildDeviceBath>
+2019-01-23 19:17:07 INFO  Parser:130 - PARSER: Start method <getDeviceField>
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:138 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:102 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 19:17:07 INFO  Parser:67 - PARSER: Parser of BathroomDevice and add to arraylist completed successfully
+2019-01-23 19:17:07 INFO  Parser:69 - PARSER: Start the parser of LongueRoomDevice
+2019-01-23 19:17:07 INFO  Parser:107 - PARSER: Start method <buildDeviceLongue>
+2019-01-23 19:17:07 INFO  Parser:130 - PARSER: Start method <getDeviceField>
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:138 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:116 - PARSER: Method <buildDeviceLongue> completed successfully
+2019-01-23 19:17:07 INFO  Parser:75 - PARSER: Parser of  LongueRoomDevice and add to arraylist completed successfully
+2019-01-23 19:17:07 INFO  Parser:107 - PARSER: Start method <buildDeviceLongue>
+2019-01-23 19:17:07 INFO  Parser:130 - PARSER: Start method <getDeviceField>
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:138 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:121 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:17:07 INFO  Parser:125 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:17:07 INFO  Parser:116 - PARSER: Method <buildDeviceLongue> completed successfully
+2019-01-23 19:17:07 INFO  Parser:75 - PARSER: Parser of  LongueRoomDevice and add to arraylist completed successfully
+2019-01-23 19:17:07 INFO  Parser:41 - PARSER: Printing all devises after parser now: [
+CLASS: class flat.device.KitchenDevice Name: Multicooker PowerSize: 1 PowerON: true SerialNumber:  1 minTemperature: 20 maxTemperature: 200, 
+CLASS: class flat.device.KitchenDevice Name: Kittle PowerSize: 2 PowerON: true SerialNumber:  2 minTemperature: 30 maxTemperature: 250, 
+CLASS: class flat.device.KitchenDevice Name: Microwave PowerSize: 3 PowerON: true SerialNumber:  3 minTemperature: 15 maxTemperature: 180, 
+CLASS: class flat.device.BathroomDevice Name: hairdryer PowerSize: 3 PowerON: true SerialNumber:  4 waterproof: true, 
+CLASS: class flat.device.BathroomDevice Name: hairdryer PowerSize: 5 PowerON: true SerialNumber:  5 waterproof: true, 
+CLASS: class flat.device.BathroomDevice Name: washing_machine PowerSize: 7 PowerON: true SerialNumber:  6 waterproof: true, 
+CLASS: class flat.device.LongueRoomDevice Name: TV PowerSize: 2 PowerON: true SerialNumber:  7 lcdDisplay: true wiFi: true bluetooth: true, 
+CLASS: class flat.device.LongueRoomDevice Name: Computer PowerSize: 4 PowerON: true SerialNumber:  8 lcdDisplay: true wiFi: true bluetooth: false]
+2019-01-23 19:17:07 INFO  Parser:42 - PARSER: Size of list allDevices is 8
+2019-01-23 19:32:13 INFO  Room:61 - ROOM: I count my devices now
+2019-01-23 19:32:13 INFO  Room:63 - ROOM: Count devices completed
+2019-01-23 19:32:13 INFO  Room:19 - ROOM: I am buying electrical devices
+2019-01-23 19:32:13 INFO  Room:28 - ROOM: Buy devices completed
+2019-01-23 19:32:13 INFO  Room:61 - ROOM: I count my devices now
+2019-01-23 19:32:13 INFO  Room:63 - ROOM: Count devices completed
+2019-01-23 19:32:13 INFO  Room:68 - ROOM: All my devices were printed in console
+2019-01-23 19:32:13 INFO  Room:32 - ROOM: I sort devices
+2019-01-23 19:32:13 INFO  Room:35 - ROOM: Sort devices completed
+2019-01-23 19:32:13 INFO  Room:41 - ROOM: I choose my devices by some value of power
+2019-01-23 19:32:13 INFO  Room:47 - ROOM: Choice by power completed
+2019-01-23 19:32:13 INFO  Room:51 - ROOM: I sum all power of devices 
+2019-01-23 19:32:13 INFO  Room:56 - ROOM: Sum devices by power completed
+2019-01-23 19:32:13 INFO  Parser:28 - PARSER: Create new arraylist
+2019-01-23 19:32:13 INFO  Parser:30 - PARSER: Create new arraylist completed successfully
+2019-01-23 19:32:13 INFO  Parser:112 - PARSER: Start method <buildDeviceBath>
+2019-01-23 19:32:13 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 19:32:13 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:32:13 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:32:13 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:32:13 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:32:13 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:32:13 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:32:13 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:32:13 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:32:13 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:32:13 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:32:13 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:32:13 INFO  Parser:117 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 19:32:13 INFO  Parser:112 - PARSER: Start method <buildDeviceBath>
+2019-01-23 19:32:13 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 19:32:13 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:32:13 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:32:13 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:32:13 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:32:13 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:32:13 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:32:13 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:32:13 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:32:13 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:32:13 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:32:13 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:32:13 INFO  Parser:117 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 19:32:13 INFO  Parser:112 - PARSER: Start method <buildDeviceBath>
+2019-01-23 19:32:13 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 19:32:13 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:32:13 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:32:13 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:32:13 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:32:13 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:32:13 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:32:13 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:32:13 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:32:13 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:32:13 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:32:13 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:32:13 INFO  Parser:117 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 19:32:13 INFO  Parser:41 - PARSER: Printing all devises after parser now: [
+CLASS: class flat.device.BathroomDevice Name: hairdryer PowerSize: 3 PowerON: true SerialNumber:  4 waterproof: true, 
+CLASS: class flat.device.BathroomDevice Name: hairdryer PowerSize: 5 PowerON: true SerialNumber:  5 waterproof: true, 
+CLASS: class flat.device.BathroomDevice Name: washing_machine PowerSize: 7 PowerON: true SerialNumber:  6 waterproof: true]
+2019-01-23 19:32:13 INFO  Parser:42 - PARSER: Size of list allDevices is 3
+2019-01-23 19:33:28 INFO  Room:61 - ROOM: I count my devices now
+2019-01-23 19:33:28 INFO  Room:63 - ROOM: Count devices completed
+2019-01-23 19:33:28 INFO  Room:19 - ROOM: I am buying electrical devices
+2019-01-23 19:33:28 INFO  Room:28 - ROOM: Buy devices completed
+2019-01-23 19:33:28 INFO  Room:61 - ROOM: I count my devices now
+2019-01-23 19:33:28 INFO  Room:63 - ROOM: Count devices completed
+2019-01-23 19:33:28 INFO  Room:68 - ROOM: All my devices were printed in console
+2019-01-23 19:33:28 INFO  Room:32 - ROOM: I sort devices
+2019-01-23 19:33:28 INFO  Room:35 - ROOM: Sort devices completed
+2019-01-23 19:33:28 INFO  Room:41 - ROOM: I choose my devices by some value of power
+2019-01-23 19:33:28 INFO  Room:47 - ROOM: Choice by power completed
+2019-01-23 19:33:28 INFO  Room:51 - ROOM: I sum all power of devices 
+2019-01-23 19:33:28 INFO  Room:56 - ROOM: Sum devices by power completed
+2019-01-23 19:33:28 INFO  Parser:28 - PARSER: Create new arraylist
+2019-01-23 19:33:28 INFO  Parser:30 - PARSER: Create new arraylist completed successfully
+2019-01-23 19:33:28 INFO  Parser:112 - PARSER: Start method <buildDeviceBath>
+2019-01-23 19:33:28 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:117 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 19:33:28 INFO  Parser:112 - PARSER: Start method <buildDeviceBath>
+2019-01-23 19:33:28 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:117 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 19:33:28 INFO  Parser:112 - PARSER: Start method <buildDeviceBath>
+2019-01-23 19:33:28 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:117 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 19:33:28 INFO  Parser:100 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 19:33:28 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:107 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 19:33:28 INFO  Parser:100 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 19:33:28 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:107 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 19:33:28 INFO  Parser:100 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 19:33:28 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:33:28 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:33:28 INFO  Parser:107 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 19:33:28 INFO  Parser:41 - PARSER: Printing all devises after parser now: [
+CLASS: class flat.device.BathroomDevice Name: hairdryer PowerSize: 3 PowerON: true SerialNumber:  4 waterproof: true, 
+CLASS: class flat.device.BathroomDevice Name: hairdryer PowerSize: 5 PowerON: true SerialNumber:  5 waterproof: true, 
+CLASS: class flat.device.BathroomDevice Name: washing_machine PowerSize: 7 PowerON: true SerialNumber:  6 waterproof: true, 
+CLASS: class flat.device.KitchenDevice Name: Multicooker PowerSize: 1 PowerON: true SerialNumber:  1 minTemperature: 20 maxTemperature: 200, 
+CLASS: class flat.device.KitchenDevice Name: Kittle PowerSize: 2 PowerON: true SerialNumber:  2 minTemperature: 30 maxTemperature: 250, 
+CLASS: class flat.device.KitchenDevice Name: Microwave PowerSize: 3 PowerON: true SerialNumber:  3 minTemperature: 15 maxTemperature: 180]
+2019-01-23 19:33:28 INFO  Parser:42 - PARSER: Size of list allDevices is 6
+2019-01-23 19:53:04 INFO  Room:61 - ROOM: I count my devices now
+2019-01-23 19:53:04 INFO  Room:63 - ROOM: Count devices completed
+2019-01-23 19:53:04 INFO  Room:19 - ROOM: I am buying electrical devices
+2019-01-23 19:53:04 INFO  Room:28 - ROOM: Buy devices completed
+2019-01-23 19:53:04 INFO  Room:61 - ROOM: I count my devices now
+2019-01-23 19:53:04 INFO  Room:63 - ROOM: Count devices completed
+2019-01-23 19:53:04 INFO  Room:68 - ROOM: All my devices were printed in console
+2019-01-23 19:53:04 INFO  Room:32 - ROOM: I sort devices
+2019-01-23 19:53:04 INFO  Room:35 - ROOM: Sort devices completed
+2019-01-23 19:53:04 INFO  Room:41 - ROOM: I choose my devices by some value of power
+2019-01-23 19:53:04 INFO  Room:47 - ROOM: Choice by power completed
+2019-01-23 19:53:04 INFO  Room:51 - ROOM: I sum all power of devices 
+2019-01-23 19:53:04 INFO  Room:56 - ROOM: Sum devices by power completed
+2019-01-23 19:53:05 INFO  Parser:28 - PARSER: Create new arraylist
+2019-01-23 19:53:05 INFO  Parser:30 - PARSER: Create new arraylist completed successfully
+2019-01-23 19:53:05 INFO  Parser:100 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 19:53:05 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 19:53:05 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:05 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:05 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:05 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:05 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:05 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:05 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:05 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:05 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:53:05 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:05 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:05 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:05 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:05 INFO  Parser:107 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 19:53:05 INFO  Parser:100 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 19:53:05 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 19:53:05 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:05 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:05 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:05 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:05 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:05 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:05 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:05 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:05 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:53:05 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:05 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:05 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:05 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:05 INFO  Parser:107 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 19:53:05 INFO  Parser:100 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 19:53:05 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 19:53:05 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:05 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:05 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:05 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:05 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:05 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:05 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:05 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:05 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:53:05 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:05 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:05 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:05 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:05 INFO  Parser:107 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 19:53:05 INFO  Parser:41 - PARSER: Printing all devises after parser now: [
+CLASS: class flat.device.KitchenDevice Name: Multicooker PowerSize: 1 PowerON: true SerialNumber:  1 minTemperature: 20 maxTemperature: 200, 
+CLASS: class flat.device.KitchenDevice Name: Kittle PowerSize: 2 PowerON: true SerialNumber:  2 minTemperature: 30 maxTemperature: 250, 
+CLASS: class flat.device.KitchenDevice Name: Microwave PowerSize: 3 PowerON: true SerialNumber:  3 minTemperature: 15 maxTemperature: 180]
+2019-01-23 19:53:05 INFO  Parser:42 - PARSER: Size of list allDevices is 3
+2019-01-23 19:53:27 INFO  Room:61 - ROOM: I count my devices now
+2019-01-23 19:53:27 INFO  Room:63 - ROOM: Count devices completed
+2019-01-23 19:53:27 INFO  Room:19 - ROOM: I am buying electrical devices
+2019-01-23 19:53:27 INFO  Room:28 - ROOM: Buy devices completed
+2019-01-23 19:53:27 INFO  Room:61 - ROOM: I count my devices now
+2019-01-23 19:53:27 INFO  Room:63 - ROOM: Count devices completed
+2019-01-23 19:53:27 INFO  Room:68 - ROOM: All my devices were printed in console
+2019-01-23 19:53:27 INFO  Room:32 - ROOM: I sort devices
+2019-01-23 19:53:27 INFO  Room:35 - ROOM: Sort devices completed
+2019-01-23 19:53:27 INFO  Room:41 - ROOM: I choose my devices by some value of power
+2019-01-23 19:53:27 INFO  Room:47 - ROOM: Choice by power completed
+2019-01-23 19:53:27 INFO  Room:51 - ROOM: I sum all power of devices 
+2019-01-23 19:53:27 INFO  Room:56 - ROOM: Sum devices by power completed
+2019-01-23 19:53:27 INFO  Parser:28 - PARSER: Create new arraylist
+2019-01-23 19:53:27 INFO  Parser:30 - PARSER: Create new arraylist completed successfully
+2019-01-23 19:53:27 INFO  Parser:41 - PARSER: Printing all devises after parser now: []
+2019-01-23 19:53:27 INFO  Parser:42 - PARSER: Size of list allDevices is 0
+2019-01-23 19:53:56 INFO  Room:61 - ROOM: I count my devices now
+2019-01-23 19:53:56 INFO  Room:63 - ROOM: Count devices completed
+2019-01-23 19:53:56 INFO  Room:19 - ROOM: I am buying electrical devices
+2019-01-23 19:53:56 INFO  Room:28 - ROOM: Buy devices completed
+2019-01-23 19:53:56 INFO  Room:61 - ROOM: I count my devices now
+2019-01-23 19:53:56 INFO  Room:63 - ROOM: Count devices completed
+2019-01-23 19:53:56 INFO  Room:68 - ROOM: All my devices were printed in console
+2019-01-23 19:53:56 INFO  Room:32 - ROOM: I sort devices
+2019-01-23 19:53:56 INFO  Room:35 - ROOM: Sort devices completed
+2019-01-23 19:53:56 INFO  Room:41 - ROOM: I choose my devices by some value of power
+2019-01-23 19:53:56 INFO  Room:47 - ROOM: Choice by power completed
+2019-01-23 19:53:56 INFO  Room:51 - ROOM: I sum all power of devices 
+2019-01-23 19:53:56 INFO  Room:56 - ROOM: Sum devices by power completed
+2019-01-23 19:53:56 INFO  Parser:28 - PARSER: Create new arraylist
+2019-01-23 19:53:56 INFO  Parser:30 - PARSER: Create new arraylist completed successfully
+2019-01-23 19:53:56 INFO  Parser:112 - PARSER: Start method <buildDeviceBath>
+2019-01-23 19:53:56 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:117 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 19:53:56 INFO  Parser:112 - PARSER: Start method <buildDeviceBath>
+2019-01-23 19:53:56 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:117 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 19:53:56 INFO  Parser:112 - PARSER: Start method <buildDeviceBath>
+2019-01-23 19:53:56 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:117 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 19:53:56 INFO  Parser:100 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 19:53:56 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:107 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 19:53:56 INFO  Parser:100 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 19:53:56 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:107 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 19:53:56 INFO  Parser:100 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 19:53:56 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 19:53:56 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 19:53:56 INFO  Parser:107 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 19:53:56 INFO  Parser:41 - PARSER: Printing all devises after parser now: [
+CLASS: class flat.device.BathroomDevice Name: hairdryer PowerSize: 3 PowerON: true SerialNumber:  4 waterproof: true, 
+CLASS: class flat.device.BathroomDevice Name: hairdryer PowerSize: 5 PowerON: true SerialNumber:  5 waterproof: true, 
+CLASS: class flat.device.BathroomDevice Name: washing_machine PowerSize: 7 PowerON: true SerialNumber:  6 waterproof: true, 
+CLASS: class flat.device.KitchenDevice Name: Multicooker PowerSize: 1 PowerON: true SerialNumber:  1 minTemperature: 20 maxTemperature: 200, 
+CLASS: class flat.device.KitchenDevice Name: Kittle PowerSize: 2 PowerON: true SerialNumber:  2 minTemperature: 30 maxTemperature: 250, 
+CLASS: class flat.device.KitchenDevice Name: Microwave PowerSize: 3 PowerON: true SerialNumber:  3 minTemperature: 15 maxTemperature: 180]
+2019-01-23 19:53:56 INFO  Parser:42 - PARSER: Size of list allDevices is 6
+2019-01-23 20:01:31 INFO  Room:61 - ROOM: I count my devices now
+2019-01-23 20:01:31 INFO  Room:63 - ROOM: Count devices completed
+2019-01-23 20:01:31 INFO  Room:19 - ROOM: I am buying electrical devices
+2019-01-23 20:01:31 INFO  Room:28 - ROOM: Buy devices completed
+2019-01-23 20:01:31 INFO  Room:61 - ROOM: I count my devices now
+2019-01-23 20:01:31 INFO  Room:63 - ROOM: Count devices completed
+2019-01-23 20:01:31 INFO  Room:68 - ROOM: All my devices were printed in console
+2019-01-23 20:01:31 INFO  Room:32 - ROOM: I sort devices
+2019-01-23 20:01:31 INFO  Room:35 - ROOM: Sort devices completed
+2019-01-23 20:01:31 INFO  Room:41 - ROOM: I choose my devices by some value of power
+2019-01-23 20:01:31 INFO  Room:47 - ROOM: Choice by power completed
+2019-01-23 20:01:31 INFO  Room:51 - ROOM: I sum all power of devices 
+2019-01-23 20:01:31 INFO  Room:56 - ROOM: Sum devices by power completed
+2019-01-23 20:01:32 INFO  Parser:28 - PARSER: Create new arraylist
+2019-01-23 20:01:32 INFO  Parser:30 - PARSER: Create new arraylist completed successfully
+2019-01-23 20:01:32 INFO  Parser:112 - PARSER: Start method <buildDeviceBath>
+2019-01-23 20:01:32 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:117 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 20:01:32 INFO  Parser:112 - PARSER: Start method <buildDeviceBath>
+2019-01-23 20:01:32 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:117 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 20:01:32 INFO  Parser:112 - PARSER: Start method <buildDeviceBath>
+2019-01-23 20:01:32 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:117 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 20:01:32 INFO  Parser:100 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 20:01:32 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:107 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 20:01:32 INFO  Parser:100 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 20:01:32 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:107 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 20:01:32 INFO  Parser:100 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 20:01:32 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:01:32 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:01:32 INFO  Parser:107 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 20:01:32 INFO  Parser:41 - PARSER: Printing all devises after parser now: [
+CLASS: class flat.device.BathroomDevice Name: hairdryer PowerSize: 3 PowerON: true SerialNumber:  4 waterproof: true, 
+CLASS: class flat.device.BathroomDevice Name: hairdryer PowerSize: 5 PowerON: true SerialNumber:  5 waterproof: true, 
+CLASS: class flat.device.BathroomDevice Name: washing_machine PowerSize: 7 PowerON: true SerialNumber:  6 waterproof: true, 
+CLASS: class flat.device.KitchenDevice Name: Multicooker PowerSize: 1 PowerON: true SerialNumber:  1 minTemperature: 20 maxTemperature: 200, 
+CLASS: class flat.device.KitchenDevice Name: Kittle PowerSize: 2 PowerON: true SerialNumber:  2 minTemperature: 30 maxTemperature: 250, 
+CLASS: class flat.device.KitchenDevice Name: Microwave PowerSize: 3 PowerON: true SerialNumber:  3 minTemperature: 15 maxTemperature: 180]
+2019-01-23 20:01:32 INFO  Parser:42 - PARSER: Size of list allDevices is 6
+2019-01-23 20:18:46 INFO  Room:61 - ROOM: I count my devices now
+2019-01-23 20:18:46 INFO  Room:63 - ROOM: Count devices completed
+2019-01-23 20:18:46 INFO  Room:19 - ROOM: I am buying electrical devices
+2019-01-23 20:18:46 INFO  Room:28 - ROOM: Buy devices completed
+2019-01-23 20:18:46 INFO  Room:61 - ROOM: I count my devices now
+2019-01-23 20:18:46 INFO  Room:63 - ROOM: Count devices completed
+2019-01-23 20:18:46 INFO  Room:68 - ROOM: All my devices were printed in console
+2019-01-23 20:18:46 INFO  Room:32 - ROOM: I sort devices
+2019-01-23 20:18:46 INFO  Room:35 - ROOM: Sort devices completed
+2019-01-23 20:18:46 INFO  Room:41 - ROOM: I choose my devices by some value of power
+2019-01-23 20:18:46 INFO  Room:47 - ROOM: Choice by power completed
+2019-01-23 20:18:46 INFO  Room:51 - ROOM: I sum all power of devices 
+2019-01-23 20:18:46 INFO  Room:56 - ROOM: Sum devices by power completed
+2019-01-23 20:18:46 INFO  Parser:28 - PARSER: Create new arraylist
+2019-01-23 20:18:46 INFO  Parser:30 - PARSER: Create new arraylist completed successfully
+2019-01-23 20:18:46 INFO  Parser:112 - PARSER: Start method <buildDeviceBath>
+2019-01-23 20:18:46 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:117 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 20:18:46 INFO  Parser:112 - PARSER: Start method <buildDeviceBath>
+2019-01-23 20:18:46 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:117 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 20:18:46 INFO  Parser:112 - PARSER: Start method <buildDeviceBath>
+2019-01-23 20:18:46 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:117 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 20:18:46 INFO  Parser:100 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 20:18:46 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:107 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 20:18:46 INFO  Parser:100 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 20:18:46 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:107 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 20:18:46 INFO  Parser:100 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 20:18:46 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:18:46 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:18:46 INFO  Parser:107 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 20:18:46 INFO  Parser:41 - PARSER: Printing all devises after parser now: [
+CLASS: class flat.device.BathroomDevice Name: hairdryer PowerSize: 3 PowerON: true SerialNumber:  4 waterproof: true, 
+CLASS: class flat.device.BathroomDevice Name: hairdryer PowerSize: 5 PowerON: true SerialNumber:  5 waterproof: true, 
+CLASS: class flat.device.BathroomDevice Name: washing_machine PowerSize: 7 PowerON: true SerialNumber:  6 waterproof: true, 
+CLASS: class flat.device.KitchenDevice Name: Multicooker PowerSize: 1 PowerON: true SerialNumber:  1 minTemperature: 20 maxTemperature: 200, 
+CLASS: class flat.device.KitchenDevice Name: Kittle PowerSize: 2 PowerON: true SerialNumber:  2 minTemperature: 30 maxTemperature: 250, 
+CLASS: class flat.device.KitchenDevice Name: Microwave PowerSize: 3 PowerON: true SerialNumber:  3 minTemperature: 15 maxTemperature: 180]
+2019-01-23 20:18:46 INFO  Parser:42 - PARSER: Size of list allDevices is 6
+2019-01-23 20:21:08 INFO  Room:61 - ROOM: I count my devices now
+2019-01-23 20:21:08 INFO  Room:63 - ROOM: Count devices completed
+2019-01-23 20:21:08 INFO  Room:19 - ROOM: I am buying electrical devices
+2019-01-23 20:21:08 INFO  Room:28 - ROOM: Buy devices completed
+2019-01-23 20:21:08 INFO  Room:61 - ROOM: I count my devices now
+2019-01-23 20:21:08 INFO  Room:63 - ROOM: Count devices completed
+2019-01-23 20:21:08 INFO  Room:68 - ROOM: All my devices were printed in console
+2019-01-23 20:21:08 INFO  Room:32 - ROOM: I sort devices
+2019-01-23 20:21:08 INFO  Room:35 - ROOM: Sort devices completed
+2019-01-23 20:21:08 INFO  Room:41 - ROOM: I choose my devices by some value of power
+2019-01-23 20:21:08 INFO  Room:47 - ROOM: Choice by power completed
+2019-01-23 20:21:08 INFO  Room:51 - ROOM: I sum all power of devices 
+2019-01-23 20:21:08 INFO  Room:56 - ROOM: Sum devices by power completed
+2019-01-23 20:21:09 INFO  Parser:28 - PARSER: Create new arraylist
+2019-01-23 20:21:09 INFO  Parser:30 - PARSER: Create new arraylist completed successfully
+2019-01-23 20:21:09 INFO  Parser:41 - PARSER: Printing all devises after parser now: []
+2019-01-23 20:21:09 INFO  Parser:42 - PARSER: Size of list allDevices is 0
+2019-01-23 20:28:43 INFO  Room:61 - ROOM: I count my devices now
+2019-01-23 20:28:43 INFO  Room:63 - ROOM: Count devices completed
+2019-01-23 20:28:43 INFO  Room:19 - ROOM: I am buying electrical devices
+2019-01-23 20:28:43 INFO  Room:28 - ROOM: Buy devices completed
+2019-01-23 20:28:43 INFO  Room:61 - ROOM: I count my devices now
+2019-01-23 20:28:43 INFO  Room:63 - ROOM: Count devices completed
+2019-01-23 20:28:43 INFO  Room:68 - ROOM: All my devices were printed in console
+2019-01-23 20:28:43 INFO  Room:32 - ROOM: I sort devices
+2019-01-23 20:28:43 INFO  Room:35 - ROOM: Sort devices completed
+2019-01-23 20:28:43 INFO  Room:41 - ROOM: I choose my devices by some value of power
+2019-01-23 20:28:43 INFO  Room:47 - ROOM: Choice by power completed
+2019-01-23 20:28:43 INFO  Room:51 - ROOM: I sum all power of devices 
+2019-01-23 20:28:43 INFO  Room:56 - ROOM: Sum devices by power completed
+2019-01-23 20:28:44 INFO  Parser:28 - PARSER: Create new arraylist
+2019-01-23 20:28:44 INFO  Parser:30 - PARSER: Create new arraylist completed successfully
+2019-01-23 20:28:44 INFO  Parser:112 - PARSER: Start method <buildDeviceBath>
+2019-01-23 20:28:44 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:117 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 20:28:44 INFO  Parser:112 - PARSER: Start method <buildDeviceBath>
+2019-01-23 20:28:44 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:117 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 20:28:44 INFO  Parser:112 - PARSER: Start method <buildDeviceBath>
+2019-01-23 20:28:44 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:117 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 20:28:44 INFO  Parser:100 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 20:28:44 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:107 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 20:28:44 INFO  Parser:100 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 20:28:44 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:107 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 20:28:44 INFO  Parser:100 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 20:28:44 INFO  Parser:145 - PARSER: Start method <getDeviceField>
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:153 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:136 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:28:44 INFO  Parser:140 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:28:44 INFO  Parser:107 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 20:28:44 INFO  Parser:41 - PARSER: Printing all devises after parser now: [
+CLASS: class flat.device.BathroomDevice Name: hairdryer PowerSize: 3 PowerON: true SerialNumber:  4 waterproof: true, 
+CLASS: class flat.device.BathroomDevice Name: hairdryer PowerSize: 5 PowerON: true SerialNumber:  5 waterproof: true, 
+CLASS: class flat.device.BathroomDevice Name: washing_machine PowerSize: 7 PowerON: true SerialNumber:  6 waterproof: true, 
+CLASS: class flat.device.KitchenDevice Name: Multicooker PowerSize: 1 PowerON: true SerialNumber:  1 minTemperature: 20 maxTemperature: 200, 
+CLASS: class flat.device.KitchenDevice Name: Kittle PowerSize: 2 PowerON: true SerialNumber:  2 minTemperature: 30 maxTemperature: 250, 
+CLASS: class flat.device.KitchenDevice Name: Microwave PowerSize: 3 PowerON: true SerialNumber:  3 minTemperature: 15 maxTemperature: 180]
+2019-01-23 20:28:44 INFO  Parser:42 - PARSER: Size of list allDevices is 6
+2019-01-23 20:55:07 INFO  Room:61 - ROOM: I count my devices now
+2019-01-23 20:55:07 INFO  Room:63 - ROOM: Count devices completed
+2019-01-23 20:55:07 INFO  Room:19 - ROOM: I am buying electrical devices
+2019-01-23 20:55:07 INFO  Room:28 - ROOM: Buy devices completed
+2019-01-23 20:55:07 INFO  Room:61 - ROOM: I count my devices now
+2019-01-23 20:55:07 INFO  Room:63 - ROOM: Count devices completed
+2019-01-23 20:55:07 INFO  Room:68 - ROOM: All my devices were printed in console
+2019-01-23 20:55:07 INFO  Room:32 - ROOM: I sort devices
+2019-01-23 20:55:07 INFO  Room:35 - ROOM: Sort devices completed
+2019-01-23 20:55:07 INFO  Room:41 - ROOM: I choose my devices by some value of power
+2019-01-23 20:55:07 INFO  Room:47 - ROOM: Choice by power completed
+2019-01-23 20:55:07 INFO  Room:51 - ROOM: I sum all power of devices 
+2019-01-23 20:55:07 INFO  Room:56 - ROOM: Sum devices by power completed
+2019-01-23 20:55:07 INFO  Parser:28 - PARSER: Create new arraylist
+2019-01-23 20:55:07 INFO  Parser:30 - PARSER: Create new arraylist completed successfully
+2019-01-23 20:55:07 INFO  Parser:66 - PARSER: Start method < buildListDeviceBathroom>
+2019-01-23 20:55:07 INFO  Parser:115 - PARSER: Start method <buildDeviceBath>
+2019-01-23 20:55:07 INFO  Parser:148 - PARSER: Start method <getDeviceField>
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:156 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:120 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 20:55:07 INFO  Parser:75 - PARSER: Method < buildListDeviceBathroom> completed successfully
+2019-01-23 20:55:07 INFO  Parser:115 - PARSER: Start method <buildDeviceBath>
+2019-01-23 20:55:07 INFO  Parser:148 - PARSER: Start method <getDeviceField>
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:156 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:120 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 20:55:07 INFO  Parser:75 - PARSER: Method < buildListDeviceBathroom> completed successfully
+2019-01-23 20:55:07 INFO  Parser:115 - PARSER: Start method <buildDeviceBath>
+2019-01-23 20:55:07 INFO  Parser:148 - PARSER: Start method <getDeviceField>
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:156 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:120 - PARSER: Method <buildDeviceBath> completed successfully
+2019-01-23 20:55:07 INFO  Parser:75 - PARSER: Method < buildListDeviceBathroom> completed successfully
+2019-01-23 20:55:07 INFO  Parser:47 - PARSER: Start method <buildListDeviceKitchen>
+2019-01-23 20:55:07 INFO  Parser:103 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 20:55:07 INFO  Parser:148 - PARSER: Start method <getDeviceField>
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:156 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:110 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 20:55:07 INFO  Parser:56 - PARSER: Method <buildListDeviceKitchen> completed successfully
+2019-01-23 20:55:07 INFO  Parser:103 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 20:55:07 INFO  Parser:148 - PARSER: Start method <getDeviceField>
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:156 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:110 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 20:55:07 INFO  Parser:56 - PARSER: Method <buildListDeviceKitchen> completed successfully
+2019-01-23 20:55:07 INFO  Parser:103 - PARSER: Start method <buildDeviceKitchen>
+2019-01-23 20:55:07 INFO  Parser:148 - PARSER: Start method <getDeviceField>
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:156 - PARSER: Method <getDeviceField> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:139 - PARSER: Start method <getElementTextContent>
+2019-01-23 20:55:07 INFO  Parser:143 - PARSER: Method <getElementTextContent> completed successfully
+2019-01-23 20:55:07 INFO  Parser:110 - PARSER: Method <buildDeviceKitchen> completed successfully
+2019-01-23 20:55:07 INFO  Parser:56 - PARSER: Method <buildListDeviceKitchen> completed successfully
+2019-01-23 20:55:07 INFO  Parser:41 - PARSER: Printing all devises after parser now: [
+CLASS: class flat.device.BathroomDevice Name: hairdryer PowerSize: 3 PowerON: true SerialNumber:  4 waterproof: true, 
+CLASS: class flat.device.BathroomDevice Name: hairdryer PowerSize: 5 PowerON: true SerialNumber:  5 waterproof: true, 
+CLASS: class flat.device.BathroomDevice Name: washing_machine PowerSize: 7 PowerON: true SerialNumber:  6 waterproof: true, 
+CLASS: class flat.device.KitchenDevice Name: Multicooker PowerSize: 1 PowerON: true SerialNumber:  1 minTemperature: 20 maxTemperature: 200, 
+CLASS: class flat.device.KitchenDevice Name: Kittle PowerSize: 2 PowerON: true SerialNumber:  2 minTemperature: 30 maxTemperature: 250, 
+CLASS: class flat.device.KitchenDevice Name: Microwave PowerSize: 3 PowerON: true SerialNumber:  3 minTemperature: 15 maxTemperature: 180]
+2019-01-23 20:55:07 INFO  Parser:42 - PARSER: Size of list allDevices is 6

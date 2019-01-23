@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.1" class="java.beans.XMLDecoder">
+ <object class="flat.device.KitchenDevice">
+  <void property="maxTemperature">
+   <int>200</int>
+  </void>
+  <void property="minTemperature">
+   <int>20</int>
+  </void>
+  <void property="name">
+   <string>Multicooker</string>
+  </void>
+  <void property="powerON">
+   <boolean>true</boolean>
+  </void>
+  <void property="powerSizekW">
+   <int>1</int>
+  </void>
+  <void property="serialNumber">
+   <int>8</int>
+  </void>
+ </object>
+ <object class="flat.device.KitchenDevice">
+  <void property="maxTemperature">
+   <int>250</int>
+  </void>
+  <void property="minTemperature">
+   <int>30</int>
+  </void>
+  <void property="name">
+   <string>Kittle</string>
+  </void>
+  <void property="powerON">
+   <boolean>true</boolean>
+  </void>
+  <void property="powerSizekW">
+   <int>2</int>
+  </void>
+  <void property="serialNumber">
+   <int>9</int>
+  </void>
+ </object>
+ <object class="flat.device.KitchenDevice">
+  <void property="maxTemperature">
+   <int>180</int>
+  </void>
+  <void property="minTemperature">
+   <int>15</int>
+  </void>
+  <void property="name">
+   <string>Microwave</string>
+  </void>
+  <void property="powerON">
+   <boolean>true</boolean>
+  </void>
+  <void property="powerSizekW">
+   <int>4</int>
+  </void>
+  <void property="serialNumber">
+   <int>10</int>
+  </void>
+ </object>
+ <object class="flat.device.BathroomDevice">
+  <void property="name">
+   <string>hairdryer</string>
+  </void>
+  <void property="powerON">
+   <boolean>true</boolean>
+  </void>
+  <void property="powerSizekW">
+   <int>3</int>
+  </void>
+  <void property="serialNumber">
+   <int>11</int>
+  </void>
+  <void property="waterproof">
+   <boolean>true</boolean>
+  </void>
+ </object>
+ <object class="flat.device.BathroomDevice">
+  <void property="name">
+   <string>hairdryer</string>
+  </void>
+  <void property="powerON">
+   <boolean>true</boolean>
+  </void>
+  <void property="powerSizekW">
+   <int>5</int>
+  </void>
+  <void property="serialNumber">
+   <int>12</int>
+  </void>
+  <void property="waterproof">
+   <boolean>true</boolean>
+  </void>
+ </object>
+ <object class="flat.device.BathroomDevice">
+  <void property="name">
+   <string>washing_machine</string>
+  </void>
+  <void property="powerON">
+   <boolean>true</boolean>
+  </void>
+  <void property="powerSizekW">
+   <int>7</int>
+  </void>
+  <void property="serialNumber">
+   <int>13</int>
+  </void>
+  <void property="waterproof">
+   <boolean>true</boolean>
+  </void>
+ </object>
+ <object class="flat.device.LongueRoomDevice">
+  <void property="bluetooth">
+   <boolean>true</boolean>
+  </void>
+  <void property="lcdDisplay">
+   <boolean>true</boolean>
+  </void>
+  <void property="name">
+   <string>TV</string>
+  </void>
+  <void property="powerON">
+   <boolean>true</boolean>
+  </void>
+  <void property="powerSizekW">
+   <int>2</int>
+  </void>
+  <void property="serialNumber">
+   <int>14</int>
+  </void>
+  <void property="wiFi">
+   <boolean>true</boolean>
+  </void>
+ </object>
+ <object class="flat.device.LongueRoomDevice">
+  <void property="name">
+   <string>Computer</string>
+  </void>
+  <void property="powerSizekW">
+   <int>4</int>
+  </void>
+  <void property="serialNumber">
+   <int>15</int>
+  </void>
+  <void property="wiFi">
+   <boolean>true</boolean>
+  </void>
+ </object>
+</java>
